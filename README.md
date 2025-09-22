@@ -31,7 +31,7 @@ Este projeto é um sistema simples de gerenciamento de clientes desenvolvido com
 1. Clone o repositório:
 ```bash
 git clone https://github.com/Gabriel4002/crud-django.git
-cd crud-django/crud_clientes
+cd crud-django/crud_cliente
 ```
 
 2. Crie e ative um ambiente virtual (recomendado):
